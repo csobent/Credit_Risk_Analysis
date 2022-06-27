@@ -23,6 +23,25 @@ For this challenge, we have been asked to create a machine learning model to hel
 - High/Low Recall: 0.61 (61%) and 0.45 (45%)
 ![Random Undersampling.png](Images/Random_Undersampling.png)
 
+### Combination (Over and Under) Sampling
+- Balanced Accuracy Score: 0.6377215353066544 (63.77%)
+- High/Low Precision: 0.01 (1%) and 1.00 (100%)
+- High/Low Recall: 0.71 (71%) and 0.56 (56%)
+![smoteenn.png](Images/smoteenn.png)
+
+### Random Forest
+- Balanced Accuracy Score: 0.67209249388625 (67.21%)
+- High/Low Precision: 0.73 (73%) and 1.00 (100%)
+- High/Low Recall: 0.34 (34%) and 1.00 (100%)
+![Random_Forest.png](Images/Random_Forest.png)
+
+### Easy Ensemble
+- Balanced Accuracy Score: 0.67209249388625 (67.21%)
+- High/Low Precision: 0.73 (73%) and 1.00 (100%)
+- High/Low Recall: 0.34 (34%) and 1.00 (100%)
+![EasyEnsemble.png](Images/EasyEnsemble.png)
+
+
 
 
 
