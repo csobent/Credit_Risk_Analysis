@@ -42,6 +42,9 @@ For this challenge, we have been asked to create a machine learning model to hel
 ![EasyEnsemble.png](Images/EasyEnsemble.png)
 
 
+## Summary
+
+For full disclosure, I was having issues with the easy ensemble model working, so with the data I have, I will make the best inferred decision on which model is best for determining credit card risk. The best model for detecting credit card risk is the random forest model with a balanced accuracy score of 67.21%. Compared to all the other models, this model has the high balanced accuracy score, as well as the highest precision with its precision being at 73% for high-risk and 100% for low-risk. Although all of the models appear to have some type of balance to their recall scores, the best one would also be under the random forest model because it managed to achieve a recall score of 100% for its low-risk category.
 
 
 
